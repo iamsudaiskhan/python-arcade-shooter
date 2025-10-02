@@ -3,7 +3,7 @@ markdown
 
 A 2D shooter game built with Python and Pygame. Battle through three levels with increasing difficulty, fight challenging bosses, and unlock new abilities as you progress.
 
-Reminder: Put these all into the Same Directory as the Main.py.
+Reminder: Put these all fiels into the Same Directory as the Main.py.
 
 
 ## Installation
